@@ -14,7 +14,6 @@ sudo: false
 env:
   matrix:
     - NODEJS_VER=chakracore/latest
-    - NODEJS_VER=node/4
     - NODEJS_VER=node/6
     - NODEJS_VER=node/8
     - NODEJS_VER=node/latest
